@@ -1,0 +1,2 @@
+# Introduction-to-Object-Oriented-Programming-I
+This course introduces the basics of object-oriented programming using C++, focusing on key concepts such as classes, objects, inheritance, and polymorphism to build structured and reusable programs.
